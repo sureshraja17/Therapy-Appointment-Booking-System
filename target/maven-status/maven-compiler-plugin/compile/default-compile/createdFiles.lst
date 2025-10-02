@@ -1,0 +1,5 @@
+com\yourname\therapy\repository\AppointmentRepository.class
+com\yourname\therapy\TherapyApplication.class
+com\yourname\therapy\controller\AppointmentController.class
+com\yourname\therapy\model\Appointment.class
+com\yourname\therapy\service\AppointmentService.class
